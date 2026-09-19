@@ -9,7 +9,7 @@
         <item>
             <title>0.1.0</title>
 
-            <pubDate>Sat, 19 Sep 2026 14:01:31 -0400</pubDate>
+            <pubDate>Sat, 19 Sep 2026 14:24:26 -0400</pubDate>
 
             <sparkle:version>1</sparkle:version>
 
@@ -34,7 +34,7 @@ Initial personal release of ToMP4.
                 url="https://github.com/TheCuriousProcrastinator/ToMP4-Updates/releases/download/v0.1.0/ToMP4-0.1.0.zip"
                 length="70449275"
                 type="application/octet-stream"
-                sparkle:edSignature="Te+g+Td6P73/MVr85d0KeUr3hUoqDqZgHl1hbpymoL5IDhDu2Zi/CP1+pGt+/6bJ9UPLWcLyczxg6alBkM1VCA=="
+                sparkle:edSignature="89m4ZlGPgXC1FwYYKN8RTBzN3bC3hTwdeay6K06OtUzbqnBb3mW9QiFlKJCB6wmlnQrDhM+5piuePBOp+CzrCQ=="
             />
         </item>
     </channel>
