@@ -1,12 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" standalone="yes"?>
 <rss
-    version="2.0"
     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+    version="2.0"
 >
     <channel>
-        <title>ToMP4 Updates</title>
-        <link>https://github.com/TheCuriousProcrastinator/ToMP4-Updates</link>
-        <description>ToMP4 software updates</description>
-        <language>en</language>
+        <title>ToMP4</title>
+
+        <item>
+            <title>0.1.0</title>
+
+            <pubDate>Sat, 19 Sep 2026 14:01:31 -0400</pubDate>
+
+            <sparkle:version>1</sparkle:version>
+
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+
+            <description sparkle:format="markdown"><![CDATA[
+# ToMP4 0.1.0
+
+Initial personal release of ToMP4.
+
+- Native folder-to-MP4 conversion.
+- Resolution limits from Original through 720p.
+- Bundled conversion tools.
+- Automatic updates with Sparkle.
+]]></description>
+
+            <enclosure
+                url="https://github.com/TheCuriousProcrastinator/ToMP4-Updates/releases/download/v0.1.0/ToMP4-0.1.0.zip"
+                length="70449275"
+                type="application/octet-stream"
+                sparkle:edSignature="Te+g+Td6P73/MVr85d0KeUr3hUoqDqZgHl1hbpymoL5IDhDu2Zi/CP1+pGt+/6bJ9UPLWcLyczxg6alBkM1VCA=="
+            />
+        </item>
     </channel>
 </rss>
