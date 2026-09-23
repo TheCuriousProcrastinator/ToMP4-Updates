@@ -7,6 +7,38 @@
         <title>ToMP4</title>
 
         <item>
+            <title>0.1.1</title>
+
+            <pubDate>Wed, 23 Sep 2026 19:35:06 -0400</pubDate>
+
+            <sparkle:version>2</sparkle:version>
+
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+
+            <description sparkle:format="markdown"><![CDATA[
+# ToMP4 0.1.1
+
+Startup memory improvements.
+
+- Remembers Source and Destination folders between launches.
+- Remembers the selected maximum resolution.
+- Drag-and-drop folder selections are remembered.
+- Missing remembered folders are ignored safely.
+]]></description>
+
+            <enclosure
+                url="https://github.com/TheCuriousProcrastinator/ToMP4-Updates/releases/download/v0.1.1/ToMP4-0.1.1.zip"
+                length="70452695"
+                type="application/octet-stream"
+                sparkle:edSignature="4hbTmFUJan8IZzW/4t5i7CEhuqduzACtv54DOIY6HoVOxtsrmYYsHEN4ggof8naxjpGsvRg3m6zPLtgwRvn0AA=="
+            />
+        </item>
+
+        <item>
             <title>0.1.0</title>
 
             <pubDate>Sat, 19 Sep 2026 14:24:26 -0400</pubDate>
