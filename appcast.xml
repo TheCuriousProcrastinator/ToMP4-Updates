@@ -7,6 +7,37 @@
         <title>ToMP4</title>
 
         <item>
+            <title>0.1.2</title>
+
+            <pubDate>Mon, 28 Sep 2026 08:27:15 -0400</pubDate>
+
+            <sparkle:version>3</sparkle:version>
+
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+
+            <description sparkle:format="markdown"><![CDATA[
+# ToMP4 0.1.2
+
+Repeated batches are easier.
+
+- Adds **Convert New Videos** after a batch finishes.
+- Keeps the current Source, Destination, and maximum resolution.
+- Rescans the Source folder and converts newly added videos while existing completed MP4 outputs continue to be skipped.
+]]></description>
+
+            <enclosure
+                url="https://github.com/TheCuriousProcrastinator/ToMP4-Updates/releases/download/v0.1.2/ToMP4-0.1.2.zip"
+                length="70454045"
+                type="application/octet-stream"
+                sparkle:edSignature="fViiBbGWtZ/yavaZ40z8kb3JXzFek6MlCn3gjtlKHlLVH3ISrE3FCLheb+BNrXI3FSEVnmwcBdjvY98Y9HB1Bw=="
+            />
+        </item>
+
+        <item>
             <title>0.1.1</title>
 
             <pubDate>Wed, 23 Sep 2026 19:35:06 -0400</pubDate>
