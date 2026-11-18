@@ -3,8 +3,8 @@
 
 - Repository: `TheCuriousProcrastinator/ToMP4-Updates`; local working branch: `main`.
 - Version data below is read from the **Git index** (the files staged for commit).
-- Source `appcast.xml`: version `0.1.2`, build `3`.
-- GitHub publication: Published GitHub release `v0.1.2` (reported by GitHub API). Other distribution channels are **unverified**.
+- Source `appcast.xml`: version `0.1.3`, build `4`.
+- GitHub publication: Published GitHub release `v0.1.3` (reported by GitHub API). Other distribution channels are **unverified**.
 - This section does **not** establish local build success, manual QA, App Store/Chrome Web Store approval, notarization, live website deployment, or release-asset integrity.
 - The narrative below maintains architecture, decisions, issues and test evidence. Its older status and version claims are **historical** unless explicitly reconciled with this section.
 - Before executable changes, inspect the actual checkout and validate the **exact files** on the real Mac. No automatic GitHub Actions.
